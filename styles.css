@@ -1,1 +1,7 @@
-
+img {
+  width: 300px;
+  float:left;
+  border: solid 3px red;
+  border-radius: 9px;
+  margin-right: 15px
+}
