@@ -9,4 +9,26 @@ img {
 body {
   background-color: antiquewhite;
   font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+  color: darkslategray;
+}
+
+#title {
+  color: crimson;
+}
+
+.text {
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+#rayquaza {
+  color: darkgreen;
+}
+
+p span {
+  font-weight: bold;
+}
+
+h2, h3 {
+  color: darkslateblue;
 }
